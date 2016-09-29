@@ -1,0 +1,13 @@
+{
+         "name": "ShowFICalc",
+         "type": "checkbox",
+      "default": false,
+      "section": "general",
+        "title": "Show FI Calc",
+  "description": "Show FI Calc",
+      "actions": {
+                    "true": [
+                      "injectCSS", "main.css"
+                    ]
+                 }
+}
